@@ -34,6 +34,8 @@ genre profitability, aiding producers and investors in decision-making.
 
 ![Popularity Trend](https://github.com/FridaOyucho/Microsoft-Analysis/assets/63707906/ea05ff76-5867-4466-9414-4c63409b009e)
 
+The graph below depicts that the Action genre yields the highest revenue, around 1.25 billion dollars, followed by Comedy, Drama, and Adventure genres with revenues of approximately 750 million, 500 million, and 400 million dollars respectively.
+![image](https://github.com/FridaOyucho/Microsoft-Analysis/assets/63707906/cdf3664d-aea9-424b-80df-2e8b2efe8d8d)
 
 ![Revenue Rates](https://github.com/FridaOyucho/Microsoft-Analysis/assets/63707906/62427fc1-e75c-4d9c-9c55-fff4a42a4c42)
 
