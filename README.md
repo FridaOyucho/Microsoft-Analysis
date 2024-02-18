@@ -10,13 +10,17 @@ will return the highest revenue.
 
 ### Business Problem
 ![Microsoft Movies](https://github.com/FridaOyucho/Microsoft-Analysis/assets/63707906/c08e0e7a-6148-4342-826b-531de20f5090)
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know 
-anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into 
-actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Micrososft is exploring top-performing genres in the current box office landscape for their new movie studio. This analysis aims to provide actionable insights on successful film trends to guide strategic decisions and ensure the creation of content that resonates with audiences, maximizing the studio's chances of success in the competitive entertainment industry.
 
 ### Data
-The datasets for the different box offices provide most information needed about movies and the different genres i.e runtime, Production Budget, movie popularity, worldwide 
-gross e.t.c  
+The datasets used in this analysis were from:
+ tmdb database
+ tn.movie_budgets database
+ title.basics database
+The selected datasets from the listed databases provide information needed about movies and the different genres i.e runtime, Production Budget, movie popularity, worldwide gross e.t.c
+
+![image](https://github.com/FridaOyucho/Microsoft-Analysis/assets/63707906/4d8735ec-6051-4e78-86fb-7a07bf29b993)
+ 
 
 ### Methods
 The project uses descriptive analysis including a density plot representing the distribution of the numeric variables i.e. distribution of worldwide profit. The charts provide 
@@ -45,13 +49,13 @@ and some genres. It offers insights for data-driven decisions in movie productio
 
 ### Conclusions
 The following conclusions can be made from the analysis output:
-1. Optimal Movie Length: It is advisable to create movies that last between 90 to 120 minutes.
+1.  It is advisable to create movies that last between 90 to 120 minutes.
    This duration seems to align well with audience preferences.
-2. Genre Focus: Focus on producing more Comedy and Drama movies, as these genres appear to be the most popular among viewers.
+2. Focus on producing more Comedy and Drama movies, as these genres appear to be the most popular among viewers.
  This could potentially attract a larger audience.
-3. Budget-Revenue Relationship: There is a strong positive correlation between production budget and revenue. This suggests that increasing the production budget might lead to higher revenue. However,
+3. There is a strong positive correlation between production budget and revenue. This suggests that increasing the production budget might lead to higher revenue. However,
    it's essential to carefully assess the cost-benefit relationship to ensure profitability.
-4. Profitable Genres: Consider prioritizing the production of Drama, Horror, and History genres, as they contribute to the highest revenue.
+4. Consider prioritizing the production of Drama, Horror, and History genres, as they contribute to the highest revenue.
  This insight can guide content creation strategies for maximizing profitability.
 
 
